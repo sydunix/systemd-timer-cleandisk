@@ -6,4 +6,4 @@ sudo systemctl status cleanDisk.timer
 sudo rm /opt/cleanDisk.sh /etc/systemd/system/cleanDisk.service /etc/systemd/system/cleanDisk.timer
 sudo systemctl status cleanDisk.timer
 
-echo -e "SETUP\v SUCCESSFULLY\v COMPLETED!!"
+echo -e "UNINSTALL\v SUCCESSFULLY\v COMPLETED!!"
